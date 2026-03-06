@@ -1,1 +1,61 @@
 # Wearables-Project
+
+## Systemarchitektur
+Blockdiagramm einfügen
+zu benutzende Software: Altium, wichtig: Bauteile wählen welche in Altium vorhanden sind
+## System Anforderungen
+- am Handgelenk tragbares Wearable (Wearable zu definieren!) mit: 
+  - 12 Stunden ununterbrochene Funktionalität
+  - wiederaufladbare Akku (Ladebuchse muss nicht mit im Gehäuse eingeplant werden, Drahtloses laden nicht notwendig)
+    - Spannungsregler notwendig? 
+  - Datenübertragung zum zentrale Server
+    - welche Übertragung wird genutzt? sowohl intern als auch extern= 
+  - Pulsmessung
+  - Bewegung Messung (min. 3 Achsen Accelerometer, min. 3 Achsen Gyroskop)
+  - IPX7 Schutzklasse
+  - kein User interface
+  - kein Display 
+
+## Glossar
+Wearable Definition: 
+
+## Deadlines
+##### 31.03.2026 
+Funktionalität, Architektur 
+Abgabe eines Dokuments von Projektleitungsgruppe (nach Absprache mit Gesamgruppe) 
+##### 30.04.2026
+Schaltplan und Dokumentation (Verifikation Konzept, Cybersicherheit Risiken und Konzept) 
+Jede Gruppe gibt zwei Dokumente ab für ihr jeweiliges funktionales Modul:
+- Schaltplan in Altium + Bill of Materials (Teile müssen in Stock sein und JEDES Bauteil muss aufgeführt werden) 
+- Dokument für Messverfahren für Verifikation und Herstellung, 2 Seiten max.)
+
+Projektleitungsgruppe gibt ein zusätzliches Dokument bzgl. Cybersicherheit Risiken und Konzept ab 
+##### 26.05.2026
+Wearable Challenge Tag (Alle Gruppen führen die Tests gleichzeitig)
+
+## Abgabe Anforderungen
+- Schaltplan in Altium designen
+  - gewählte Bauteile müssen in Altium einen Footprint besitzen
+  - Testpunkte mitbedenken
+  - Namen / Kennzeichnungen müssen mit Schaltplänen anderer Gruppen zusammenpassen 
+- Bill of Materials:
+  - Bauteile müssen kaufbar sein (keine Lieferzeiten von 12 Wochen o.ä.)
+  - Eindeutige ID, Wert, Größe/Gehäuse und Bestellcode angeben
+  - Beispiel BOM 
+   <img width="570" height="571" alt="image" src="https://github.com/user-attachments/assets/66088707-75d5-487f-bd29-5f2189631798" />
+
+## Gruppen einteilung
+#### Akku Gruppe 
+Jakob, Hannah N., Katharina
+#### Bewegungssensor Gruppe 
+Julia R., Sophie, Sophia Ö. 
+#### Pulsoxy/HR Gruppe 
+Lena, John, Ellena
+#### Projektleitunsgruppe 
+Sophia G., Hauke, Marie, Hannah K. 
+#### PCB Gruppe (unterstützt Akku Gruppe) 
+Tamira, Niklas, Samuel 
+#### Mikrokontroller Gruppe 
+Jakob, Elias, Lilli 
+#### Datenverarbeitungsgruppe 
+Sophia N., Pietschie, Moritz 
