@@ -1,8 +1,31 @@
 # Wearables-Project
 
 ## Systemarchitektur
-Blockdiagramm einfügen
-zu benutzende Software: Altium, wichtig: Bauteile wählen welche in Altium vorhanden sind
+```mermaid
+flowchart LR
+
+subgraph Wearable_Handgelenk
+
+    Motion[Bewegungssensoren]
+    Pulsoxy[Pulsoximeter]
+    EKG[EKG]
+
+    MCU[µC]
+
+    Akku[Akku]
+    DataTx[Datenübertragung]
+    Storage[Datenspeicher]
+
+    Motion --> MCU
+    Pulsoxy --> MCU
+    EKG --> MCU
+
+    MCU --> Storage --> DataTx
+    Akku --> MCU
+
+end
+```
+
 ## System Anforderungen
 - am Handgelenk tragbares Wearable (Wearable zu definieren!) mit: 
   - 12 Stunden ununterbrochene Funktionalität
