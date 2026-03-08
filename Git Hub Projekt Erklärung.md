@@ -1,10 +1,15 @@
 ### Repository
-Aufbewahrungsort für alle wichtigen Dokumente: 
+#### Dokumente 
+Repository dient als Aufbewahrungsort für alle wichtigen Dokumente: 
 - Erklärungsdokumente
 - Dokumente für Abgaben (Schaltpläne, etc.)
 - andere wichtige Dokumente (z.B. PCB Design Guidelines)
 
 Alle sollten Berechtigung haben Dokumente zu bearbeiten und neue Dokumente hinzuzufügen.
+
+#### Issues Übersicht
+Im Repository selbst können ALLE assozierten Issues/To Dos eingesehen werden, die Verwaltung dieser ist jedoch einfacher über das Projekt selbst (siehe unten). 
+
 
 ### Project
 Das Projekt 'Wearables Projekt Übersicht' ist mit dem Repository verbunden und wird für die gesamte Organisation des Gruppenprojekt genutzt. 
