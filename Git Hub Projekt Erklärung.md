@@ -37,3 +37,7 @@ Diesen Punkt besrpechen wir im Meeting am 12.März
 
 ##### To Do / In progress / Done 
 Bitte verschiebt eure Issues in die jeweiligen Kategorien, damit es übersichtlich bleibt und alle sehen können auf welchem Stand wir gerade sind. 
+
+
+#### Discussions 
+Die Diskussions Funktion ist wie ein Forum und kann für alles benutzt werden, was nicht bis zum nächsten Meeting warten kann o.ä., dadurch bleibt alles etwas übersichtlicher und ist leicht wieder zu finden. Bitte erstellt relevante Categorys für euer Anliegen. 
