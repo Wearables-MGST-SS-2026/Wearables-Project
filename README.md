@@ -6,6 +6,32 @@
 
 Für die Bearbeitung auf draw.io: https://drive.google.com/file/d/1wEGkkZn527xgeVMppMi8J7xjdRwCSHxG/view?usp=sharing 
 
+## 🗓️ Deadlines
+
+##### ➡️ 17.03.2026 (Intern)
+Bauteilauswahl der verschiedenen Gruppen + eine Person, welche diese vorstellt
+
+##### ➡️ 12.04.2026 (Intern)
+Schaltpläne Fertigstellung
+
+##### ➡️ 27.04.2026 (Intern)
+PCB Fertigstellung
+
+##### ➡️ 31.03.2026 (Extern)
+Funktionalität, Architektur 
+Abgabe eines Dokuments von Projektleitungsgruppe (nach Absprache mit Gesamgruppe) 
+
+##### ➡️ 30.04.2026 (Extern)
+Schaltplan und Dokumentation (Verifikation Konzept, Cybersicherheit Risiken und Konzept) 
+Jede Gruppe gibt zwei Dokumente ab für ihr jeweiliges funktionales Modul:
+- Schaltplan in Altium + Bill of Materials (Teile müssen in Stock sein und JEDES Bauteil muss aufgeführt werden) 
+- Dokument für Messverfahren für Verifikation und Herstellung, 2 Seiten max.)
+
+Projektleitungsgruppe gibt ein zusätzliches Dokument bzgl. Cybersicherheit Risiken und Konzept ab 
+
+##### ➡️ 26.05.2026 (Extern)
+Wearable Challenge Tag (Alle Gruppen führen die Tests gleichzeitig)
+
 ## System Anforderungen
 - am Handgelenk tragbares Wearable (Wearable zu definieren!) mit: 
   - 12 Stunden ununterbrochene Funktionalität
@@ -21,20 +47,6 @@ Für die Bearbeitung auf draw.io: https://drive.google.com/file/d/1wEGkkZn527xge
 
 ## Glossar
 Wearable Definition: 
-
-## Deadlines
-##### 31.03.2026 
-Funktionalität, Architektur 
-Abgabe eines Dokuments von Projektleitungsgruppe (nach Absprache mit Gesamgruppe) 
-##### 30.04.2026
-Schaltplan und Dokumentation (Verifikation Konzept, Cybersicherheit Risiken und Konzept) 
-Jede Gruppe gibt zwei Dokumente ab für ihr jeweiliges funktionales Modul:
-- Schaltplan in Altium + Bill of Materials (Teile müssen in Stock sein und JEDES Bauteil muss aufgeführt werden) 
-- Dokument für Messverfahren für Verifikation und Herstellung, 2 Seiten max.)
-
-Projektleitungsgruppe gibt ein zusätzliches Dokument bzgl. Cybersicherheit Risiken und Konzept ab 
-##### 26.05.2026
-Wearable Challenge Tag (Alle Gruppen führen die Tests gleichzeitig)
 
 ## Abgabe Anforderungen
 - Schaltplan in Altium designen
