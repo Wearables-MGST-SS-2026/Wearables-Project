@@ -49,8 +49,8 @@ Wearable Challenge Tag (Alle Gruppen führen die Tests gleichzeitig)
 Wearable Definition: 
 
 ## Abgabe Anforderungen
-- Schaltplan in Altium designen
-  - gewählte Bauteile müssen in Altium einen Footprint besitzen
+- Schaltplan in KiCad designen
+  - gewählte Bauteile müssen in KiCad einen Footprint besitzen
   - Testpunkte mitbedenken
   - Namen / Kennzeichnungen müssen mit Schaltplänen anderer Gruppen zusammenpassen 
 - Bill of Materials:
