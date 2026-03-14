@@ -2,7 +2,7 @@
 
 ## Systemarchitektur
 
-<img width="820" height="706" alt="Screenshot 2026-03-08 at 1 47 40 PM" src="https://github.com/user-attachments/assets/d8bfacae-880e-43df-8a7f-31f419a95dfb" />
+![Systemarchitektur](systemarchitektur_drawio.png)
 
 Für die Bearbeitung auf draw.io: https://drive.google.com/file/d/1wEGkkZn527xgeVMppMi8J7xjdRwCSHxG/view?usp=sharing 
 
