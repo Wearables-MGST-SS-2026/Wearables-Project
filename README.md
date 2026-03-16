@@ -24,7 +24,7 @@ Abgabe eines Dokuments von Projektleitungsgruppe (nach Absprache mit Gesamgruppe
 ##### ➡️ 30.04.2026 (Extern)
 Schaltplan und Dokumentation (Verifikation Konzept, Cybersicherheit Risiken und Konzept) 
 Jede Gruppe gibt zwei Dokumente ab für ihr jeweiliges funktionales Modul:
-- Schaltplan in Altium + Bill of Materials (Teile müssen in Stock sein und JEDES Bauteil muss aufgeführt werden) 
+- Schaltplan in KiCad + Bill of Materials (Teile müssen in Stock sein und JEDES Bauteil muss aufgeführt werden) 
 - Dokument für Messverfahren für Verifikation und Herstellung, 2 Seiten max.)
 
 Projektleitungsgruppe gibt ein zusätzliches Dokument bzgl. Cybersicherheit Risiken und Konzept ab 
