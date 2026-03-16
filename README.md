@@ -46,7 +46,8 @@ Wearable Challenge Tag (Alle Gruppen führen die Tests gleichzeitig)
   - kein Display 
 
 ## Glossar
-Wearable Definition: 
+Wearable Definition:
+Wearables bezeichnen Geräte, die folgende Kriterien erfüllen. Sie können nicht nur nicht obsturktiv am Körper getragen werden, sie schränken also keine Körperfunktionen ein, sondern können auch jederzeit durch die benutzende Person an- und abgelegt werden. Zudem bedienen sie sich der Sensorik, digitalen Datenverabreitung und der Kommunikation.
 
 ## Abgabe Anforderungen
 - Schaltplan in KiCad designen
