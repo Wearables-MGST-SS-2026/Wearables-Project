@@ -4,8 +4,6 @@
 
 ![Systemarchitektur](Wearables_Projekt_Systemarchitektur.jpg)
 
-Für die Bearbeitung auf draw.io: https://drive.google.com/file/d/1wEGkkZn527xgeVMppMi8J7xjdRwCSHxG/view?usp=sharing 
-
 ## 🗓️ Deadlines
 
 ##### ➡️ 17.03.2026 (Intern)
