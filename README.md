@@ -2,7 +2,7 @@
 
 ## Systemarchitektur
 
-![Systemarchitektur](systemarchitektur_drawio.png)
+![Systemarchitektur](Wearables_Projekt_Systemarchitektur.jpg)
 
 Für die Bearbeitung auf draw.io: https://drive.google.com/file/d/1wEGkkZn527xgeVMppMi8J7xjdRwCSHxG/view?usp=sharing 
 
