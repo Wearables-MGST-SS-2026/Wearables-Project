@@ -13,15 +13,15 @@
 ##### ➡️ 17.03.2026 (Intern)
 Bauteilauswahl der verschiedenen Gruppen + eine Person, welche diese vorstellt
 
+##### ➡️ 31.03.2026 (Extern)
+Funktionalität, Architektur 
+Abgabe eines Dokuments von Projektleitungsgruppe (nach Absprache mit Gesamgruppe) 
+
 ##### ➡️ 12.04.2026 (Intern)
 Schaltpläne Fertigstellung
 
 ##### ➡️ 27.04.2026 (Intern)
 PCB Fertigstellung
-
-##### ➡️ 31.03.2026 (Extern)
-Funktionalität, Architektur 
-Abgabe eines Dokuments von Projektleitungsgruppe (nach Absprache mit Gesamgruppe) 
 
 ##### ➡️ 30.04.2026 (Extern)
 Schaltplan und Dokumentation (Verifikation Konzept, Cybersicherheit Risiken und Konzept) 
