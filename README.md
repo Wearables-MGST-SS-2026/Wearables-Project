@@ -41,7 +41,11 @@ Wearable Challenge Tag (Alle Gruppen führen die Tests gleichzeitig)
   - Bewegung Messung (min. 3 Achsen Accelerometer, min. 3 Achsen Gyroskop)
   - IPX7 Schutzklasse
   - kein User interface
-  - kein Display 
+  - kein Display
+  - 1 Jahr Kundengarantie -> muss nach 1 Jahr immer noch 12 Stunden Laufzeit haben
+  - IMU soll 100Hz Abtastrate haben
+  - alle Daten müssen am Ende des Tages MIT timestamps auf dem Server sein (Sekundär Batterie muss NICHT implementiert werden), es kann angenommen werden dass Server ständig verbunden ist, aber es muss sicher gestellt werden dass keine Blockierungen passieren
+  - Pulsoxy/ HR soll alle 10 Sekunden Herzrate messen & neuen Wert speichern
 
 ## Glossar
 Wearable Definition:
