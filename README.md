@@ -4,6 +4,10 @@
 
 ![Systemarchitektur](Wearables_Projekt_Systemarchitektur.jpg)
 
+### Bauteilanforderungen an Akku 
+<img width="631" height="772" alt="Strom_Spannungsanforderungen" src="https://github.com/user-attachments/assets/f6c75806-dd19-4d45-a504-42daaa404b68" />
+
+
 ## 🗓️ Deadlines
 
 ##### ➡️ 17.03.2026 (Intern)
