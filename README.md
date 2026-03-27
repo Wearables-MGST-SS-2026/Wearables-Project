@@ -4,6 +4,19 @@
 
 ![Systemarchitektur](Wearables_Projekt_Systemarchitektur.jpg)
 
+Links für die Bauteile:
+- Mikrokontroller: https://www.digikey.at/de/products/detail/nordic-semiconductor-asa/NRF52840-QIAA-F-R/15929794
+- Akku: https://www.conrad.at/de/p/akyga-lp503040-akkupack-x-spezial-akku-lipo-3-7-v-560-mah-3385838.html
+- Externer Speicher: noch ausständig
+- IMU: https://www.digikey.de/de/products/detail/stmicroelectronics/LSM6DSOXTR/9841882
+- Pulsoximeter:
+  - Sensor: https://www.mouser.at/ProductDetail/Analog-Devices-Maxim-Integrated/MAX30101EFD%2BT?qs=sITqEBh490kEm6CNcTH1tQ%3D%3D&srsltid=AfmBOooeisLKsf-SlCmX0eI9FAGqsr9U439F-9ioyHP3WWO6gMZ4mlS4&utm_source=chatgpt.com
+  - Step-Down Wandler: https://www.mouser.at/ProductDetail/MaxLinear/SPX3819M5-L-1-8-TR?qs=S%2FCBhQS5rCpfutlZ3lVq4g%3D%3D
+  - Step-Up Wandler: https://www.mouser.at/ProductDetail/Texas-Instruments/TPS61023DRLT?qs=BJlw7L4Cy78Zr3IJIU3gNw%3D%3D
+  - Level-Shifter für I2C: https://www.mouser.at/ProductDetail/Texas-Instruments/PCA9306DCTR?qs=wgAEGBTxy7mysSrdibj0NQ%3D%3D
+ 
+
+
 ### Bauteilanforderungen an Akku 
 <img width="631" height="772" alt="Strom_Spannungsanforderungen" src="https://github.com/user-attachments/assets/f6c75806-dd19-4d45-a504-42daaa404b68" />
 
