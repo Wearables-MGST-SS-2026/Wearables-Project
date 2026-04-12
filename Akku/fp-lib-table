@@ -1,4 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "AkkuLib") (type "KiCad") (uri "${KIPRJMOD}/AkkuLib.pretty") (options "") (descr ""))
-)
