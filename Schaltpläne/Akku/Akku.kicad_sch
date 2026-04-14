@@ -2426,6 +2426,38 @@
 		(color 0 0 0 0)
 		(uuid "fe980294-2ce4-4b24-b52b-c85f8b6bd831")
 	)
+	(no_connect
+		(at 163.83 73.66)
+		(uuid "603f6ae1-a7a6-4d08-8f94-85e809ddb12a")
+	)
+	(no_connect
+		(at 118.11 71.12)
+		(uuid "6b10f26d-4f35-4632-91d6-c76f150ff76e")
+	)
+	(no_connect
+		(at 118.11 63.5)
+		(uuid "7a39aec4-ec72-4ffa-bfe7-e5617a8c34f7")
+	)
+	(no_connect
+		(at 163.83 81.28)
+		(uuid "7f3af22f-4bba-4ebf-98cf-536e696108d8")
+	)
+	(no_connect
+		(at 118.11 83.82)
+		(uuid "81e48af4-7a7d-429c-a41f-aa861a26b390")
+	)
+	(no_connect
+		(at 163.83 63.5)
+		(uuid "874f1803-0cf6-408a-8c44-ce3379fe827a")
+	)
+	(no_connect
+		(at 118.11 68.58)
+		(uuid "aa8ee977-40da-4cbc-98ee-d9cc0bbe9623")
+	)
+	(no_connect
+		(at 118.11 66.04)
+		(uuid "ab152b59-da70-434f-989d-cf2c385102bb")
+	)
 	(wire
 		(pts
 			(xy 163.83 78.74) (xy 180.34 78.74)
@@ -4060,7 +4092,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 266.7 55.88 270)
+		(at 266.7 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4068,10 +4100,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "77142938-239f-4a15-9eee-24f74930f097")
 		(property "Reference" "#PWR03"
-			(at 262.89 55.88 0)
+			(at 266.7 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4082,7 +4113,7 @@
 			)
 		)
 		(property "Value" "3,3V"
-			(at 270.51 55.8799 90)
+			(at 266.6999 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
